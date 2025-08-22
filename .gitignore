@@ -1,0 +1,20 @@
+# Entornos virtuales
+.venv/
+venv/
+
+# Archivos de configuración local
+.env
+.flaskenv
+
+# Archivos de Python compilados
+*.pyc
+__pycache__/
+
+# Archivos de sesión de Flask
+instance/
+flask_session/
+
+# Cachés y logs
+*.log
+*.pot
+*.mo
